@@ -1,7 +1,7 @@
 ## Larissa
 
 # 👩‍💻Larissa Avelina
-**'Estudante de ADS em formação'**
+**Estudante de ADS em formação**
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na FIAP. Durante o Ensino Médio, cursei também o Técnico em Nutrição e Dietética pela ETEC, concluindo ambas as formações.
 Atualmente, estou direcionando minha carreira para a área de Tecnologia, desenvolvendo meus conhecimentos em programação e buscando crescer profissionalmente no desenvolvimento de software.
